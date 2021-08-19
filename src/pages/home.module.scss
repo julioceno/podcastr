@@ -53,7 +53,7 @@
                     font-size: 0.875rem;
                     margin-top: 0.5rem;
                     max-width: 70%; // O p vai no máximo 70%
-                    white-space: nowrap; // Não vai quebrar a  linha
+                    //white-space: nowrap; // Não vai quebrar a  linha
                     overflow: hidden; // O que transbordar será escondido
                     text-overflow: ellipsis; // Terá um ... para indicar que tem mais texto se caso transbordar
                 }
